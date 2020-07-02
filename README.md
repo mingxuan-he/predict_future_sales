@@ -7,7 +7,7 @@
 ## Code and Resources Used
 * Python Version 3.7 with Google Colab
 * Raw data: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
-* Packages: pandas, numpy, sklearn
+* Packages: pandas, numpy, sklearn, matplotlib
 
 ## Data Cleaning
 
